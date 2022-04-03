@@ -2,6 +2,8 @@
 
 The goal of the program is to evaluate properties of PSO and compare PSO against gradient descent.<br />
 Used simulations of the pros and cons of PSO and to find out if it makes sense to combine PSO and gradient descent.<br />
+You can start by running the file:
+### `Main`
 
 ## Benchmark functions
 Benchmark functions help us to understand if our algorithm works so we used:
